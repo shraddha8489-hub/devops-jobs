@@ -1,0 +1,10 @@
+# Screening-question bank. Key = phrase to match in the question label (fuzzy), value = your answer.
+# Fill the TODO ones yourself; the agent never invents answers and pauses on anything it can't match.
+years of experience: "9.5"
+notice period: "30 days"
+current ctc: "TODO"
+expected ctc: "TODO"
+current salary: "TODO"
+expected salary: "TODO"
+how did you hear: "Company career page"
+website: "https://linkedin.com/in/shraddha-suman17"

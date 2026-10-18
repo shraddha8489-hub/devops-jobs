@@ -1,0 +1,8 @@
+my_years: 9.5          # postings asking for more than my_years+1 are dropped
+# Company career boards (all treated as product companies/startups).
+# Wrong slugs are skipped automatically; the run log shows which boards returned jobs.
+greenhouse: [gitlab, datadog, cloudflare, elastic, mongodb, grafanalabs, pagerduty, twilio, okta, stripe, coinbase, databricks, postman, browserstack, grab, airwallex, thoughtworks, razorpay, freshworks, chargebee, cred, groww, phonepe, zeta, meesho, swiggy, atlan, hasura]
+lever: [binance, crypto, palantir, spotify, netlify, zeta, cred, dream11, sharechat, paytm, tazapay, nium, thunes, gojek]
+ashby: [1password, airbyte, astronomer, clickup, coder, confluent, deel, docker, incident, influxdata, linear, miro, notion, posthog, railway, ramp, redis, render, replit, sentry, snowflake, snyk, supabase, vercel, wiz]
+# Services/consulting/staffing names, dropped from every source.
+blocklist: [tcs, tata consultancy, infosys, wipro, hcl, cognizant, accenture, capgemini, tech mahindra, ltimindtree, mindtree, mphasis, hexaware, genpact, deloitte, pwc, kpmg, ey , ibm, dxc, ntt data, virtusa, cyient, zensar, birlasoft, coforge, persistent, nagarro, epam, globallogic, randstad, adecco, manpower, teamlease, quess, naukri, staffing, consulting, recruit]
